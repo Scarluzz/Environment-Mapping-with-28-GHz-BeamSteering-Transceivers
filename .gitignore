@@ -1,0 +1,31 @@
+# === Environnements Python / venv ===
+bin/
+lib/
+lib64
+share/
+pyvenv.cfg
+
+# === Dossiers projet non modifiés / fixes ===
+config/
+files/
+include/
+
+# === Logs ===
+tlk_core_log/
+
+# === Fichiers temporaires / backup ===
+*.tmp
+*.swp
+
+# === Éditeurs ===
+.vscode/
+.idea/
+
+# === Build / Compilation (C/C++) ===
+*.o
+*.out
+*.exe
+mmWave_Sandre
+
+# === Autres fichiers ou dossiers à ignorer ===
+.DS_Store
